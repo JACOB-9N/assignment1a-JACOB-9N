@@ -2,7 +2,7 @@
 
 int main() {
     char GITHUB_ID[] = "JACOB-9N";
-    char STUDENT_ID[] = "jmn6010@psu.edu";
+    char STUDENT_ID[] = "941146470";
 
     return 0 ;
 }
